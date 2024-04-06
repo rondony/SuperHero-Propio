@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background - image: url('C:\Proyectos CENSE\Clases Full Stack\Marzo\27-03 Encuentra tu SuperHero\prueba-final_m3-main_ult_vers\prueba-final_m3-main_ult_vers\assets\img'); /* Cambia 'ruta/de/la/imagen.jpg' por la ruta de tu imagen */
+    background - size: cover; /* Para cubrir todo el área del body */
+    background - position: center; /* Para centrar la imagen */
+    font - family: Arial, sans - serif; /* Fuente predeterminada */
+}
+
+.container {
+    max - width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background - color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para el contenido */
+}
